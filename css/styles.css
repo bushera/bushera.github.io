@@ -16,7 +16,7 @@
 #logo>img {height:32px; width:36px; position:absolute; top:9.5px; left:8px}
 #h1 {font-size:8px; position: absolute; left:48px; top:18px;  font-weight:lighter; font-family: Cursive; letter-spacing:6px;color:rgba(0,0,0,0.5)}
 
-#box{height:290px; width:100%; background:url(C:\Users\USER-PC\Documents\bushDEMO\images\dess1.jpg); transition:background 0.8s linear 0s; border-radius:10px; border: 2px double skyblue; transition: background 2s linear 0s;}
+#box{height:290px; width:100%; background:url(/images/dess1.jpg); transition:background 0.8s linear 0s; border-radius:10px; border: 2px double skyblue; transition: background 2s linear 0s;}
 #box: hover{background:white;}
 
 
